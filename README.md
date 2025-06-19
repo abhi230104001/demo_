@@ -1,2 +1,2 @@
 # demo_
-my first gitgub respo
+my first gitgub repo
